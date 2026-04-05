@@ -19,19 +19,20 @@ The Python Finance System Backend is a Django and Django REST Framework (DRF) po
 - Command Line / API Interface
 
 ## 📂 Project Structure
-finance_tracker/
-├── finance_tracker/ # Project configuration
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-├── transactions/ # App for financial records
-│ ├── models.py # Transaction and user role models
-│ ├── serializers.py # DRF serializers
-│ ├── views.py # API views
-│ ├── urls.py # App routes
-│ └── admin.py # Admin panel configuration
-├── manage.py
-└── README.md
+finance_tracker/ <br>
+
+├── finance_tracker/ # Project configuration <br>
+│ ├── settings.py  <br>
+│ ├── urls.py  <br>
+│ └── wsgi.py  <br>
+├── transactions/ # App for financial records  <br>
+│ ├── models.py # Transaction and user role models  <br>
+│ ├── serializers.py # DRF serializers  <br>
+│ ├── views.py # API views  <br>
+│ ├── urls.py # App routes  <br>
+│ └── admin.py # Admin panel configuration  <br>
+├── manage.py  <br>
+└── README.md  <br>
 
 ## ⚙️ How to Run the Project
 1. Clone Repository:
