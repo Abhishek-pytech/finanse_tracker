@@ -1,10 +1,13 @@
-#Python Based Finance System Backend
+**#Python Based Finance System Backend 
+<br>
 Overview
 This project is a Python-powered finance tracking system backend built with Django and Django REST Framework (DRF). It allows users to manage financial records, view summaries, and perform role-based actions. The system is designed to be clean, maintainable, and easy to understand, demonstrating backend best practices, proper data handling, and structured code.
+<br>
 Features
 Financial Records Management: Create, read, update, delete, and filter financial transactions.
 Transaction Fields: Amount, Type (Income/Expense), Category, Date, Notes/Description.
 Summary and Analytics: Total income, total expenses, balance, category-wise breakdown, monthly totals, and recent activity.
+<br>
 User Roles:
 Viewer: Can view records and summaries.
 Analyst: Can view, filter, and access detailed insights.
@@ -82,3 +85,4 @@ Demonstrates Python proficiency and backend logic.
 Summaries and filters implemented for meaningful financial insights.
 Clean error handling and validation ensure reliability.
 Author
+******
