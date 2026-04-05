@@ -53,35 +53,35 @@ python manage.py runserver
 
 Access the System: API: http://127.0.0.1:8000/api/ ,Admin Panel: http://127.0.0.1:8000/admin/
 
-## API Endpoints
-GET /api/transactions/ – List all transactions
-POST /api/transactions/ – Create transaction
-GET /api/transactions/<id>/ – Retrieve transaction
-PUT /api/transactions/<id>/ – Update transaction
-DELETE /api/transactions/<id>/ – Delete transaction
-GET /api/summary/ – View totals, balances, and category breakdown
+## API Endpoints  <br>
+GET /api/transactions/ – List all transactions  <br>
+POST /api/transactions/ – Create transaction  <br>
+GET /api/transactions/<id>/ – Retrieve transaction  <br>
+PUT /api/transactions/<id>/ – Update transaction  <br>
+DELETE /api/transactions/<id>/ – Delete transaction  <br>
+GET /api/summary/ – View totals, balances, and category breakdown  <br>
 
 
 ## Assumptions
 - Type must be either 'income' or 'expense'
 - Amount must be positive
 
-📚 Learning Outcomes
-Structuring Django REST APIs
-Managing user roles and permissions
-Creating CRUD operations with validation
-Implementing summaries and analytics
-Handling errors and proper HTTP responses
+📚 Learning Outcomes <br>
+Structuring Django REST APIs  <br>
+Managing user roles and permissions  <br>
+Creating CRUD operations with validation  <br>
+Implementing summaries and analytics  <br>
+Handling errors and proper HTTP responses  <br>
 
-🎯 Future Improvements
-Add authentication using JWT or OAuth
-Add pagination and filtering for large datasets
-Export/import transactions (CSV/Excel)
-Connect to PostgreSQL or MySQL for production
-Add automated tests for API endpoints
+🎯 Future Improvements <br>
+Add authentication using JWT or OAuth  <br>
+Add pagination and filtering for large datasets  <br>
+Export/import transactions (CSV/Excel)  <br>
+Connect to PostgreSQL or MySQL for production  <br>
+Add automated tests for API endpoints  <br>
 
-👨‍💻 Author
-Abhishek Patel
-Python Developer | Backend Enthusiast | Data Analytics Learner
+👨‍💻 Author <br>
+Abhishek Patel  <br>
+Python Developer | Backend Enthusiast | Data Analytics Learner  <br>
 Email: itsabhishek.patel29@gmail.com
 
