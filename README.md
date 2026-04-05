@@ -1,7 +1,7 @@
 # Finance Tracker Backend
 
-## Overview
-This is a Django REST API for managing financial transactions.
+## 📌 Project Overview
+The Python Finance System Backend is a Django and Django REST Framework (DRF) powered application for managing personal financial transactions. It allows users to create, read, update, and delete financial records, view summaries of incomes, expenses, balances, and category-wise breakdowns, and implement role-based access control for different types of users. This project demonstrates core backend concepts such as Django ORM and models, RESTful API development, serializers and views, role-based access control, validation and error handling. It is designed for practical learning and real-world backend application logic.
 
 ## Features
 - Create, Read, Update, Delete transactions
