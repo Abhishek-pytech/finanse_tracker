@@ -35,8 +35,8 @@ finance_tracker/ <br>
 └── README.md  <br>
 
 ## ⚙️ How to Run the Project
-1. Clone Repository:
-git clone https://github.com/Abhishek-pytech/finanse_tracker.git
+1. Clone Repository:  <br>
+git clone https://github.com/Abhishek-pytech/finanse_tracker.git  <br>
 cd finanse_tracker
 
 ## Install Dependencies:
